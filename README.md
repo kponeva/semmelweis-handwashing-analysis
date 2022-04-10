@@ -1,2 +1,2 @@
 # semmelweis_handwashing_theory
-In this notebook, I tried to reanalyse the data that led Dr. Semmelweis to recognise the importance of handwashing
+In this mini-project, I aimed to practice skills in applying Pandas Dataframe, Numpy, Matplotlib, Statistics, and Boostrap Analysis to solve the medical mystery which was initially solved by a man who first discovered the importance of handwashing, Dr. Ignaz Semmelweis. This will be another living proof that unwashed hands could kill many lives. Therefore, please wash your filthy hands before doing anything.
